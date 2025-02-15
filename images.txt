@@ -1,2 +1,1 @@
-mongodb/mongodb-community-server:latest
-nginx
+mongo:4.4
